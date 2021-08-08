@@ -59,7 +59,7 @@ January 2013
 - cp ./lib/libapue.a /usr/local/lib/
 - cp ./lib/libapue.a /usr/lib/
 - new error.h
-- (option) cp ./error.h /usr/include/
+- (option) cp ./error.h /usr/include/errorapue.h 
 
 ## vscode
 - (win) install vscode plugin Remote-WSL
