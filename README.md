@@ -54,6 +54,8 @@ January 2013
     }
     ```
 - cd apue.3e
+- (wsl) apt-get install make
+- (wsl) apt-get install gcc
 - make
 - cp ./include/apue.h /usr/include/
 - cp ./lib/libapue.a /usr/local/lib/
